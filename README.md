@@ -44,6 +44,7 @@ GEMINI_API_KEY="YOUR_API_KEY_HERE"
 -You can obtain a free API key from aistudio.google.com
 
 ###📦 Project Structure
+```cmd
 gemini-voice-chatbot/
 ├─ backend/               # Express + WebSocket server
 │   ├─ server.js
@@ -55,6 +56,7 @@ gemini-voice-chatbot/
 │   └─ script.js
 ├─ .gitignore
 └─ README.md
+```
 
 ### ▶️ Running the Application
 This project requires two terminals to run the backend and frontend servers concurrently.
