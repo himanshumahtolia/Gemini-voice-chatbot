@@ -1,4 +1,5 @@
-#Revolt Motors AI Voice Assistant (Gemini API Demo)
+###Revolt Motors AI Voice Assistant (Gemini API Demo)
+
 A real‑time conversational voice interface that replicates the functionality of the Revolt Motors chatbot. The application streams audio responses, supports user interruptions, and maintains low latency using the Google Gemini API.
 
 ### ✨ Core Features
@@ -31,12 +32,12 @@ A real‑time conversational voice interface that replicates the functionality o
 git clone https://github.com/himanshumahtolia/gemini-voice-chatbot.git
 cd gemini-voice-chatbot
 ```
-**2. Intall Backend Dependencies
+**2. Intall Backend Dependencies**
 ```cmd
 cd backend
 npm install
 ```
-**3. Configure Environment Variables
+**3. Configure Environment Variables**
 - Create a file named .env inside the backend directory.
 -Add your Google Gemini API key to this file:
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
