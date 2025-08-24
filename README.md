@@ -68,6 +68,7 @@ This project requires two terminals to run the backend and frontend servers conc
 node server.js
 ```
 The server will start on ws://localhost:3001.
+
 2. Start the Frontend Server
 
 * In your second terminal, navigate to the frontend directory.
@@ -77,6 +78,7 @@ The server will start on ws://localhost:3001.
 npx serve
 ```
 The frontend will be available at http://localhost:3000 (or the URL provided by the serve command).
+
 3. Open the Application
 
 * Open your web browser and navigate to http://localhost:3000.
