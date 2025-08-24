@@ -41,6 +41,7 @@ npm install
 - Create a file named .env inside the backend directory.
 -Add your Google Gemini API key to this file:
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
+
 -You can obtain a free API key from aistudio.google.com
 
 ### 📦 Project Structure
