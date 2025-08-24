@@ -43,7 +43,7 @@ npm install
 GEMINI_API_KEY="YOUR_API_KEY_HERE"
 -You can obtain a free API key from aistudio.google.com
 
-###📦 Project Structure
+### 📦 Project Structure
 ```cmd
 gemini-voice-chatbot/
 ├─ backend/               # Express + WebSocket server
