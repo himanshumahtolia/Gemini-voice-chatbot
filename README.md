@@ -1,4 +1,4 @@
-###Revolt Motors AI Voice Assistant (Gemini API Demo)
+Revolt Motors AI Voice Assistant (Gemini API Demo)
 
 A real‑time conversational voice interface that replicates the functionality of the Revolt Motors chatbot. The application streams audio responses, supports user interruptions, and maintains low latency using the Google Gemini API.
 
