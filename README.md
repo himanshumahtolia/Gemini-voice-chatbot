@@ -78,8 +78,3 @@ The server will start on ws://localhost:3001.
 ```cmd
 npx serve
 ```
-The frontend will be available at http://localhost:3000 (or the URL provided by the serve command).
-
-3. Open the Application
-
-* Open your web browser and navigate to http://localhost:3000.
